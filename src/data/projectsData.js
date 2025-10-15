@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Employee Management',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: one
     },
     {
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'Railway Tracking',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['Django', 'Tailwind CSS'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: two
     },
     {
@@ -32,8 +32,8 @@ export const projectsData = [
         projectName: 'Weather App',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['Django', 'CSS', 'Material Ui'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: three
     },
     {
@@ -41,8 +41,8 @@ export const projectsData = [
         projectName: 'Android Patient Tracker',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: four
     },
     {
@@ -50,8 +50,8 @@ export const projectsData = [
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
         tags: ['React Native', 'Firebase'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: five
     },
     {
@@ -59,8 +59,8 @@ export const projectsData = [
         projectName: 'Uber Lite',
         projectDesc: 'Uber clone',
         tags: ['Flutter'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: six
     },
     {
@@ -68,8 +68,8 @@ export const projectsData = [
         projectName: 'Stock Market App',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: seven
     },
     {
@@ -77,8 +77,8 @@ export const projectsData = [
         projectName: 'Car Pooling System',
         projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
         tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/rajput-raj',
+        demo: 'https://github.com/rajput-raj',
         image: eight
     },
 ]
@@ -91,10 +91,10 @@ export const projectsData = [
 {
     id: 1,
     projectName: 'Car Pooling System',
-    projectDesc: '',
+    projectDesc: 'https://github.com/rajput-raj',
     tags: ['Flutter', 'React'],
-    code: '',
-    demo: '',
-    image: ''
+    code: 'https://github.com/rajput-raj',
+    demo: 'https://github.com/rajput-raj',
+    image: 'https://github.com/rajput-raj'
 }, 
 */
